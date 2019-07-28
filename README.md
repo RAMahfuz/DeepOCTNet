@@ -4,7 +4,7 @@ Download OCT dataset from the following two links
 1.  https://data.mendeley.com/datasets/rscbjbr9sj/2
 2.  https://sites.google.com/site/hosseinrabbanikhorasgani/datasets-1
 
-Merge the OCT images according to disease
+Merge the OCT images according to disease class
 
 Now in the directory '.../Datasets/OCT2017_NOR' create 'train', 'validation' and 'test' folder. 
 
