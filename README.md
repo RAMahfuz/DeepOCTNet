@@ -32,5 +32,7 @@ Now run the save_best_model_classify_VGG19.py
 it will save weights in the current directory. 
 Now run load_best_model_classify_VGG19.py from the same directory.
 
+For obtaining results for four class classification on a single dataset code will remain same as described above and put OCT images from a single dataset instead of usning combined dataset. 
+
 For three class OCT classification run code from 'Three_class' folder.
 For two class OCT classification run code from 'Two_class' folder.
